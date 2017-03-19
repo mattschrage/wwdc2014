@@ -1,0 +1,15 @@
+•	Alien Invasion (2011). An iPhone game with custom graphics. (~2,000 downloads) Objective C
+
+•	Pinboard (2012). Virtual bulletin board for iPad that features a skeuomorphic interface. (~20,000 downloads) Objective C
+
+•	Mobile Markup (2012).  A code editor for iOS, that supports HTML, CSS & JavaScript and lets the user preview the website in app. (~25,000 downloads) Objective C
+
+•	Inkwell (2012).  Gesture-based text editor for iPad that syncs automatically to Dropbox. (~74,000 downloads) Objective C
+
+•	Snake (2013). A remake of the classic arcade game for iOS, which uses CoreGraphics Framework and the Facebook SDK. (~24,000 downloads) Objective C
+
+•	Aura (2013).  A unique weather iPhone app that maps the hourly forecast to a clock interface. Aura was ranked #3 in the weather category at launch.(~30,000 downloads) Objective C
+
+•	Placemark (Forthcoming). A simple location-based messaging app with emoticons for iPhone that utilizes the Parse platform. Objective C
+
+•	TimeToCode (Forthcoming). A mobile learning platform built on iOS that teaches basic web coding skills with an integrated code editor that can be used anytime and anywhere. Objective C

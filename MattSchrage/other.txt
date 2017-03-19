@@ -1,0 +1,11 @@
+Hello! My name is Matt Schrage and I am a 16 year old iOS developer. I live in San Francisco. I enjoying playing soccer (though unfortunately I am not that good 😅)
+
+I have been programming since I was in 6th grade when I took and HTML and Webdesign class offered by my middle school. I built Google Chrome apps, before I decided that I wanted to build iPhone apps. The summer of 8th grade, I taught myself the basics of Objective C. I definitely didn't know about @protocols or Polymorphism, but by the end of the summer I made my first app, a simple game called Alien Invasion.
+
+Since then I have learned a lot more. I now know HTML, CSS, Javascript,Python and Java in addition to Objective C. I can design my own apps using Photoshop, code them in Xcode, make a website for them and push them out to the entire world!
+
+iOS has been my creative outlet. It lets me make anything I want, but beyond that the Apple Appstore allows me to gain instant distribution. I think that all together my apps have been downloaded more than 175,000 times. I love being able to have a real impact and to help solve problems for those around me.
+
+I am the Editor-In-Chief of my school newspaper, which I have written for, layed out in InDesign, and edited since my Freshman year. I actually made an app for the paper as my school has a 1:1 iPad program and I wanted the issues to be distributed in a more efficient way.
+
+Also I have started a project called 'TimeToCode' which an app that teaches people to program in HTML, CSS, and JS and then lets them experiment in the app. In relation to this, I am tutoring underprivaleged students with an organization called Summerbridge. My goal is to teach foundational programming concepts, such as logical thinking and the ability to break down problems in order to derive solutions.
